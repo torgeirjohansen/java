@@ -19,6 +19,7 @@
 *.tar.gz
 *.rar
 
+# Other
 *.xml
 .gitignore
 *.iml
